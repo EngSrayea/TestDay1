@@ -13,6 +13,9 @@
 		BB2BEABD245CA3EA00CFF57A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB2BEABC245CA3EA00CFF57A /* Assets.xcassets */; };
 		BB2BEAC0245CA3EA00CFF57A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB2BEABF245CA3EA00CFF57A /* Preview Assets.xcassets */; };
 		BB2BEAC3245CA3EA00CFF57A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB2BEAC1245CA3EA00CFF57A /* LaunchScreen.storyboard */; };
+		BB2BEACB245CD28700CFF57A /* CW2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB2BEACA245CD28600CFF57A /* CW2.swift */; };
+		BB2BEACD245DA86C00CFF57A /* CW3.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB2BEACC245DA86C00CFF57A /* CW3.swift */; };
+		BB2BEACF245DA91D00CFF57A /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB2BEACE245DA91D00CFF57A /* Models.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		BB2BEABF245CA3EA00CFF57A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BB2BEAC2245CA3EA00CFF57A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB2BEAC4245CA3EA00CFF57A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB2BEACA245CD28600CFF57A /* CW2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CW2.swift; sourceTree = "<group>"; };
+		BB2BEACC245DA86C00CFF57A /* CW3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CW3.swift; sourceTree = "<group>"; };
+		BB2BEACE245DA91D00CFF57A /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				BB2BEAB6245CA3E200CFF57A /* AppDelegate.swift */,
 				BB2BEAB8245CA3E200CFF57A /* SceneDelegate.swift */,
 				BB2BEABA245CA3E200CFF57A /* ContentView.swift */,
+				BB2BEACA245CD28600CFF57A /* CW2.swift */,
+				BB2BEACC245DA86C00CFF57A /* CW3.swift */,
+				BB2BEACE245DA91D00CFF57A /* Models.swift */,
 				BB2BEABC245CA3EA00CFF57A /* Assets.xcassets */,
 				BB2BEAC1245CA3EA00CFF57A /* LaunchScreen.storyboard */,
 				BB2BEAC4245CA3EA00CFF57A /* Info.plist */,
@@ -146,7 +155,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BB2BEACB245CD28700CFF57A /* CW2.swift in Sources */,
 				BB2BEAB7245CA3E200CFF57A /* AppDelegate.swift in Sources */,
+				BB2BEACD245DA86C00CFF57A /* CW3.swift in Sources */,
+				BB2BEACF245DA91D00CFF57A /* Models.swift in Sources */,
 				BB2BEAB9245CA3E200CFF57A /* SceneDelegate.swift in Sources */,
 				BB2BEABB245CA3E200CFF57A /* ContentView.swift in Sources */,
 			);
