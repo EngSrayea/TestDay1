@@ -44,7 +44,7 @@ struct CW3: View {
                     .foregroundColor(.white)
                     .background(Color(#colorLiteral(red: 1, green: 1, blue: 1, alpha: 0.2028842038)))
                     .clipShape(Capsule())
-                    .animation(.easeInOut)
+                    //.animation(.easeInOut)
       
                 
             }
